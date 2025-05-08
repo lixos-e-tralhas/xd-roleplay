@@ -1,6 +1,6 @@
 # Política de Privacidade
 
-Este aplicativo ("XD Roleplau") respeita sua privacidade e não coleta, armazena ou compartilha dados pessoais dos usuários.
+Este aplicativo ("XD Roleplay") respeita sua privacidade e não coleta, armazena ou compartilha dados pessoais dos usuários.
 
 ## Coleta de Dados
 
